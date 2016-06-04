@@ -53,8 +53,6 @@ public class EddystoneWithValidDataTest {
       {"00", "http://", "onlineshop", ".trade/", null, "1000026f6e6c696e6573686f702e74726164652f"},
       {"00", "http://", "crick", ".pw/", null, "100002637269636b2e70772f0000000000000000"},
       {"00", "http://", "astralcoach", ".com", null, "10000261737472616c636f616368070000000000"},
-
-
     });
   }
 
